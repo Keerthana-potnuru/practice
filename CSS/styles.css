@@ -1,8 +1,9 @@
-body{
+.car
+{
     background-color: peru;
 }
 
-hr
+.bus
 {
     border-style: none;
     border-top-style: dotted;
