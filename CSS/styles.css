@@ -1,3 +1,5 @@
+
+/*
 .car{
     background-color: palegreen;
 }
@@ -8,4 +10,18 @@
     border-color: grey;
     width: 5%;
     border-width: 5px;
+}
+*/
+
+#body{
+background-color: blueviolet;
+}
+
+#heading {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+}
 }
